@@ -1,0 +1,66 @@
+{
+    "name": "Tianli",
+    "theme": "auto",
+    "avatar": "/assets/avatar.jpg",
+    "email": "wutianli@tianli0.top",
+    "description": "Full time Optoelectronic Information Science and Engineering student, part time back-end developer.",
+    "footer": "<a target=\"_blank\" rel=\"noopener external nofollow noreferrer\" href=\"http://beian.miit.gov.cn/\">蜀ICP备2021004404号-1</a>",
+    "links": [
+        {
+            "name": "Github",
+            "url": "https://github.com/tianli0",
+            "icon": "/assets/icon/github.svg",
+            "description": "tianli0"
+        },
+        {
+            "name": "Blog",
+            "url": "https://tianli-blog.club/",
+            "icon": "/assets/icon/blog.svg",
+            "description": "Tianli's Blog"
+        },
+        {
+            "name": "CoolAPK",
+            "url": "http://www.coolapk.com/u/1382033",
+            "icon": "/assets/icon/dev.svg",
+            "description": "Tianli"
+        }
+    ],
+    "projects": [
+        {
+            "name": "TianliGPT",
+            "description": "Article AI Abstract Generation System",
+            "url": "https://summary.tianli0.top",
+            "img": "/assets/img/summary.png"
+        },
+        {
+            "name": "AutoLogin",
+            "description": "A simple campus network automatic login panel",
+            "url": "https://github.com/",
+            "img": "/assets/img/autologin.png"
+        },
+        {
+            "name": "Tianli-CDN",
+            "description": "A simple jsdelivr image cache server level",
+            "url": "https://github.com/Tianli-CDN/cdn-server",
+            "img": "/assets/img/cdn.png"
+        },
+        {
+            "name": "CDNAuthentication",
+            "description": "A simple CDN authentication server level",
+            "url": "https://github.com/TIANLI0/TencentCDNAuthentication",
+            "img": "/assets/img/auth.png"
+        },
+        {
+            "name": "PostChat",
+            "description": "One-stop website AI enhancement tool",
+            "url": "https://ai.tianli0.top/",
+            "img": "/assets/img/postchat.png"
+        },
+        {
+            "name": "More...",
+            "description": "More products are still in development",
+            "url": "https://github.com/TIANLI0",
+            "img": "/assets/img/more.png"
+        }
+    ]
+}
